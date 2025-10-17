@@ -1,4 +1,4 @@
-# Data-Cleaning
+# Data-Cleaning (Google Sheets)
 ## El proyecto da cuenta de un proceso de limpieza, correción y estandarización de los datos de un dataset de venta de accesorios.
 
 Para este proceso se utilizó la herramienta Google Sheets.
